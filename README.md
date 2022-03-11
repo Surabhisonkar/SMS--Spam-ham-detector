@@ -1,1 +1,1 @@
-# SMS--Spam-ham-detector
+# sms-spam
